@@ -1,0 +1,3 @@
+- https://coiled.io/blog/how-to-train-your-machine-learning-model-on-terabytes-of-data-in-1-hour/
+- stacked regressions
+- DL model approach

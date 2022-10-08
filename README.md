@@ -1,5 +1,5 @@
 # PUBG_WIN_PREDICTOR
-project for providing analysis of PUBG data and building predictor.
+Project for providing analysis of PUBG data and building predictor with ML methods.
 
 ## Objective
 In this repository, all work related to conducting data preparation, analysis, and ML modeling is done in this repo. Specific implementations for certain parts of the work is done in a seperate notebooks.
